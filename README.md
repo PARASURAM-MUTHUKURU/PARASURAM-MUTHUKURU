@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋 I'm Parasuram  
 
-<!--
-**PARASURAM-MUTHUKURU/PARASURAM-MUTHUKURU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Computer Science (AI)  
+💻 Aspiring Data Scientist | AI & ML Enthusiast  
+🚀 Passionate about building real-world projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🔍 Interested in **Machine Learning, Cybersecurity, and Web Development**
+- 🧠 Currently learning **Deep Learning & Advanced Python**
+- 🛠️ Love working with **Flask, React, MongoDB**
+- 🌱 Always curious and learning new tech
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** Python, Java, C  
+**Frontend:** HTML, CSS, JavaScript, React  
+**Backend:** Flask, FastAPI  
+**Database:** MySQL, MongoDB  
+**Tools:** Git, GitHub, Linux (Ubuntu)
+
+---
+
+## 📌 Projects
+- 🚗 **Self-Driving Car (Lane + Object Detection)**
+- 🦠 **Malware Detection Using ML**
+- 🏥 **Hospital Management System (Tkinter + MongoDB)**
+- 🔐 **Phishing Detection Using AI**
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PARASURAM-MUTHUKURU&show_icons=true)
+
+---
+
+## 🔗 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/parasuram-muthukuru-0431a3261/
+- 📧 Email: m.parasuram5206etf@gmail.com
