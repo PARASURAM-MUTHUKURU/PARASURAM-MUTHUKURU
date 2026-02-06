@@ -21,7 +21,6 @@
   <a href="mailto:m.parasuram5206etf@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=PARASURAM-MUTHUKURU&style=flat&color=blue"/>
 </p>
 
 </td>
