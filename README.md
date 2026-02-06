@@ -32,7 +32,8 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PARASURAM-MUTHUKURU&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PARASURAM-MUTHUKURU&show_icons=true&theme=github_dark&hide_border=true)
+
 
 ---
 
