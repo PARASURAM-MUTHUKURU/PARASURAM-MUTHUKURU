@@ -13,7 +13,7 @@
 
 <p>
    <a href="https://my-portfolio-5206.web.app/" target="My-Website">
-    <img src="https://drive.google.com/file/d/1TzR0PLEoStHNVfu2K9Tsva6kw4C1s7zK/view?usp=drive_link"/>
+    <img src="https://img.shields.io/website?url=https%3A%2F%2Fmy-portfolio-5206.web.app%2F"/>
   </a>
   <a href="https://www.linkedin.com/in/parasuram-muthukuru-0431a3261/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
