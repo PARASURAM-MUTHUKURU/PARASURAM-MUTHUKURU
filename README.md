@@ -23,33 +23,33 @@
 ## 🛠️ Languages & Tools
 
 ### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js&theme=light"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,js&perline=6&theme=dark" />
 </p>
 
 ### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap&theme=light"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap&perline=6&theme=dark" />
 </p>
 
 ### ⚙️ Backend & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs&theme=light"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs&perline=6&theme=dark" />
 </p>
 
 ### 🧠 AI / ML / CV
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&theme=light"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&perline=6&theme=dark" />
 </p>
 
 ### 🗄️ Databases & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=light"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&perline=6&theme=dark" />
 </p>
 
 ### 🧰 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=light"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&perline=6&theme=dark" />
 </p>
 
 ---
