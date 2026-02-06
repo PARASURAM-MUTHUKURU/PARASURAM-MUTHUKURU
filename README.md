@@ -24,110 +24,110 @@
 
 <div align="center">
   <h4>💻 Programming Languages</h4>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" width="48" height="48"/>
-      <div style="margin-top: 8px; font-size: 14px;">Python</div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 24px; margin: 16px 0;">
+    <div style="text-align: center; min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python"/>
+      <div style="margin-top: 6px; font-size: 13px; color: #e0e0e0;">Python</div>
     </div>
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" width="48" height="48"/>
-      <div style="margin-top: 8px; font-size: 14px;">Java</div>
+    <div style="text-align: center; min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="Java"/>
+      <div style="margin-top: 6px; font-size: 13px; color: #e0e0e0;">Java</div>
     </div>
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" width="48" height="48"/>
-      <div style="margin-top: 8px; font-size: 14px;">C</div>
+    <div style="text-align: center; min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" height="48" alt="C"/>
+      <div style="margin-top: 6px; font-size: 13px; color: #e0e0e0;">C</div>
     </div>
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" width="48" height="48"/>
-      <div style="margin-top: 8px; font-size: 14px;">JavaScript</div>
+    <div style="text-align: center; min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript"/>
+      <div style="margin-top: 6px; font-size: 13px; color: #e0e0e0;">JavaScript</div>
     </div>
   </div>
 
   <h4>🌐 Web Development</h4>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" width="48" height="48"/>
-      <div style="margin-top: 8px; font-size: 14px;">HTML</div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 24px; margin: 16px 0;">
+    <div style="text-align: center; min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML"/>
+      <div style="margin-top: 6px; font-size: 13px; color: #e0e0e0;">HTML</div>
     </div>
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" width="48" height="48"/>
-      <div style="margin-top: 8px; font-size: 14px;">CSS</div>
+    <div style="text-align: center; min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS"/>
+      <div style="margin-top: 6px; font-size: 13px; color: #e0e0e0;">CSS</div>
     </div>
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" width="48" height="48"/>
-      <div style="margin-top: 8px; font-size: 14px;">React</div>
+    <div style="text-align: center; min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React"/>
+      <div style="margin-top: 6px; font-size: 13px; color: #e0e0e0;">React</div>
     </div>
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" width="48" height="48"/>
-      <div style="margin-top: 8px; font-size: 14px;">Bootstrap</div>
+    <div style="text-align: center; min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="48" height="48" alt="Bootstrap"/>
+      <div style="margin-top: 6px; font-size: 13px; color: #e0e0e0;">Bootstrap</div>
     </div>
   </div>
 
   <h4>⚙️ Backend & APIs</h4>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask" width="48" height="48"/>
-      <div style="margin-top: 8px; font-size: 14px;">Flask</div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 24px; margin: 16px 0;">
+    <div style="text-align: center; min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=flask&theme=dark" width="48" height="48" alt="Flask"/>
+      <div style="margin-top: 6px; font-size: 13px; color: #e0e0e0;">Flask</div>
     </div>
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" width="48" height="48"/>
-      <div style="margin-top: 8px; font-size: 14px;">FastAPI</div>
+    <div style="text-align: center; min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" height="48" alt="FastAPI"/>
+      <div style="margin-top: 6px; font-size: 13px; color: #e0e0e0;">FastAPI</div>
     </div>
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" width="48" height="48"/>
-      <div style="margin-top: 8px; font-size: 14px;">Node.js</div>
+    <div style="text-align: center; min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js"/>
+      <div style="margin-top: 6px; font-size: 13px; color: #e0e0e0;">Node.js</div>
     </div>
   </div>
 
   <h4>🧠 AI / ML / CV</h4>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" width="48" height="48"/>
-      <div style="margin-top: 8px; font-size: 14px;">Python</div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 24px; margin: 16px 0;">
+    <div style="text-align: center; min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python"/>
+      <div style="margin-top: 6px; font-size: 13px; color: #e0e0e0;">Python</div>
     </div>
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" width="48" height="48"/>
-      <div style="margin-top: 8px; font-size: 14px;">TensorFlow</div>
+    <div style="text-align: center; min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" height="48" alt="TensorFlow"/>
+      <div style="margin-top: 6px; font-size: 13px; color: #e0e0e0;">TensorFlow</div>
     </div>
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="OpenCV" width="48" height="48"/>
-      <div style="margin-top: 8px; font-size: 14px;">OpenCV</div>
+    <div style="text-align: center; min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="48" height="48" alt="OpenCV"/>
+      <div style="margin-top: 6px; font-size: 13px; color: #e0e0e0;">OpenCV</div>
     </div>
   </div>
 
   <h4>🗄️ Databases & Cloud</h4>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" width="48" height="48"/>
-      <div style="margin-top: 8px; font-size: 14px;">MySQL</div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 24px; margin: 16px 0;">
+    <div style="text-align: center; min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL"/>
+      <div style="margin-top: 6px; font-size: 13px; color: #e0e0e0;">MySQL</div>
     </div>
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" width="48" height="48"/>
-      <div style="margin-top: 8px; font-size: 14px;">MongoDB</div>
+    <div style="text-align: center; min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB"/>
+      <div style="margin-top: 6px; font-size: 13px; color: #e0e0e0;">MongoDB</div>
     </div>
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" width="48" height="48"/>
-      <div style="margin-top: 8px; font-size: 14px;">Firebase</div>
+    <div style="text-align: center; min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48" height="48" alt="Firebase"/>
+      <div style="margin-top: 6px; font-size: 13px; color: #e0e0e0;">Firebase</div>
     </div>
   </div>
 
   <h4>🧰 Tools & Platforms</h4>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" width="48" height="48"/>
-      <div style="margin-top: 8px; font-size: 14px;">Git</div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 24px; margin: 16px 0;">
+    <div style="text-align: center; min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git"/>
+      <div style="margin-top: 6px; font-size: 13px; color: #e0e0e0;">Git</div>
     </div>
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="48" height="48"/>
-      <div style="margin-top: 8px; font-size: 14px;">GitHub</div>
+    <div style="text-align: center; min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub"/>
+      <div style="margin-top: 6px; font-size: 13px; color: #e0e0e0;">GitHub</div>
     </div>
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" width="48" height="48"/>
-      <div style="margin-top: 8px; font-size: 14px;">Linux</div>
+    <div style="text-align: center; min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux"/>
+      <div style="margin-top: 6px; font-size: 13px; color: #e0e0e0;">Linux</div>
     </div>
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" width="48" height="48"/>
-      <div style="margin-top: 8px; font-size: 14px;">VS Code</div>
+    <div style="text-align: center; min-width: 80px;">
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code"/>
+      <div style="margin-top: 6px; font-size: 13px; color: #e0e0e0;">VS Code</div>
     </div>
   </div>
 </div>
