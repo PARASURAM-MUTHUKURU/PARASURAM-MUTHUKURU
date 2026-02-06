@@ -12,7 +12,7 @@
 🚀 Building intelligent real-world systems using AI & ML  
 
 <p>
-   <a href="https://my-portfolio-5206.web.app/" target="_blank">
+   <a href="https://my-portfolio-5206.web.app/" target="My-Website">
     <img src="https://drive.google.com/file/d/1TzR0PLEoStHNVfu2K9Tsva6kw4C1s7zK/view?usp=drive_link"/>
   </a>
   <a href="https://www.linkedin.com/in/parasuram-muthukuru-0431a3261/">
