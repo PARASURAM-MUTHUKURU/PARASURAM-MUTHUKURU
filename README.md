@@ -107,8 +107,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PARASURAM-MUTHUKURU&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARASURAM-MUTHUKURU&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+ <!-- Main Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=PARASURAM-MUTHUKURU&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800&include_all_commits=true" height="160"/>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARASURAM-MUTHUKURU&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" height="160"/>
+
+<!-- Streak Stats (better version) -->
+<img src="https://streak-stats.demolab.com?user=PARASURAM-MUTHUKURU&theme=github_dark&hide_border=true&cache_seconds=1800&date_format=M%20j%2C%20Y" />
 </p>
 
 <p align="center">
